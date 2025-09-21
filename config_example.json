@@ -1,0 +1,8 @@
+{
+  "horizon": 1,
+  "iters": 300,
+  "n_splits": 5,
+  "fee_bps": 5.0,
+  "up_th_init": 0.1,
+  "down_th_init": -0.1
+}

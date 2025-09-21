@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Üretilen rapor/şekiller
+report_latest.html
+*.png
+*.svg
+*.pdf
+
+# Büyük/özel dosyalar
+runs/
+data/*.csv
+.env
